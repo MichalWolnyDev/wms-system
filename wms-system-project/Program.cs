@@ -9,7 +9,7 @@ namespace wms_system_project
     static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        ///  The main entry point for the application. DUPA
         /// </summary>
         [STAThread]
         static void Main()
